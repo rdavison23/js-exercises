@@ -1,0 +1,73 @@
+// Exercise 1.
+let emptyVariable;
+
+// Exercise 2/3.
+let myName;
+
+// Exercise 4.
+let dreamDestination = " Ethiopia"
+
+// Exercise 5.
+let num1 = 6;
+let num2 = 8;
+
+// Exercise 6.
+// num1 is asking for a numer greater than 1 and less than 10 so betwen 2 and 9 
+// num2 is asking for a number greater or eual to 1 and less or qual to 10 so numbers betwen 1 and 10 
+
+// Exercise 7.
+ num1 = 4;
+ num2 = 2;
+ let theSum = num1 + num2;
+
+ // Exercise 8.
+ let theProduct = num1 * num2; 
+
+// Exercise 9.
+let statement = "Hi my name is " + myName + ", and I can't wait to visit" + dreamDestination + "!";
+
+// Exercise 11.
+let myAnswerForExercise10 = "string"
+
+// Exercise 12.
+let myAnswerForExercise11 = "numbers";
+
+// Exercise 12.
+let myAnswerForExercise12 = "undefind";
+
+// Exercise 13.
+const A = "R";
+const B = 1;
+const C = 4;
+const D = "D";
+
+let myAnswerForExercise13 = 5;
+
+// Exercise 14.
+let myAnswerForExercise14 = "4nD";
+
+// Exercise 15.
+let myAnswerForExercise15 = "R2D2";
+
+// Exercise 16.
+let myAnswerForExercise16 = (A*B);
+
+// Exercise 17
+myAnswerForExercise17 = true;
+
+// Exercise 18.
+const myAnswerForExercise18 = true;
+
+// Exercise 19 
+let myAnswerForExercise19 = false;
+
+// Exercise 20 
+let myAnswerForExercise20 = false;
+
+// Exercise 21.
+const myAnswerForExercise21 = true;
+
+// Exercise 22 
+let myAnswerForExercise22 = false;
+
+//
