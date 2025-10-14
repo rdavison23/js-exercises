@@ -105,3 +105,6 @@ for (let outsideCounter = 0; outsideCounter <= 3; outsideCounter++) {
     console.log("***********************************");
   }
   
+  //A beginners guide to modern JavaScript
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript
+//youtub
