@@ -181,3 +181,7 @@ function exercise9(num9) {
     // --------------------------------------------
     return answer10;
   }
+
+  //A beginners guide to modern JavaScript
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript
+//youtub
